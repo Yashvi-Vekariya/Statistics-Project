@@ -134,8 +134,8 @@ Ensure you have the following installed:
 
 ---
 
-## 📞 **Contact**  
-**Abhinish Tiwari**  
-📧 [abhinishtiwari02@gmail.com](abhinishtiwari02@gmail.com)  
-🔗 [GitHub Profile](https://github.com/abhinishtiwari)  
+*Yashvi Vekariya*  
+📧 Email: [yashviivekariya@gmail.com](mailto:yashviivekariya@gmail.com)  
+🐙 GitHub: [Yashvi-Vekariya](https://github.com/Yashvi-Vekariya)  
+🔗 LinkedIn: [Yashvi Vekariya](https://www.linkedin.com/in/yashvi-vekariya/)
 
